@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GitLearner</string>
+    <string name="squash_and_merge"><![CDATA[Squash & Merge]]></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="squash_and_merge_explanation">Squash merging is a merge option that allows you to condense the Git history of topic branches when you complete a pull request. Instead of each commit on the topic branch being added to the history of the default branch, a squash merge adds all the file changes to a single new commit on the default branch.</string>
 </resources>
